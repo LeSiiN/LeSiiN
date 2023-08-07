@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch) and [ps-mdt](https://github.com/Project-Sloth/ps-mdt)<br>🌱 I’m currently learning Javascript, HTML and CSS
+🔭 I’m currently working on [ps-dispatch](https://github.com/Project-Sloth/ps-dispatch), [ps-mdt](https://github.com/Project-Sloth/ps-mdt) and [ps-housing](https://github.com/Project-Sloth/ps-housing)<br>🌱 I’m currently learning Javascript, HTML and CSS
 
 
 ## 🌐 Socials:
